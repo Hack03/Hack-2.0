@@ -10,11 +10,11 @@ Herramienta escrita en bash ideal para obtener credenciales de una tarjeta de cr
 
 * `apt update && apt upgrade -y`
 
-* `pkg install git
+* `pkg install git`
 
-* `pkg install ruby 
+* `pkg install ruby` 
 
-* `pkg install php 
+* `pkg install php` 
 
 * `pkg install curl`
 
